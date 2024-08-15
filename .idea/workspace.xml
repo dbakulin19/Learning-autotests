@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dd1e97f5-d8fd-475d-9302-a3e07ea8e16c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Автоматизация тестирования с помощью Selenium и Python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessions 1/Lession1_2_step5_interpretator_python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessions 1/Lession1_6_step11_unique_selectors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessions 1/Lession1_6_step4_find_element.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessions 1/Lession1_6_step5_find_by_text_in_link.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessions 1/Lession1_6_step6_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessions 1/Lession1_6_step7_method_find_elements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessions 1/Lession1_6_step8_find_by_xpath.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessions 2/Lession2_1_step5_checkboxes_and_radiobuttons.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessions 2/Lession2_1_step7_get_attribute.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessions 2/Lession2_2_step3_droplist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessions 2/Lession2_2_step6_execute_script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessions 2/Lession2_2_step8_upload_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessions 2/file.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2kgg1OnEgbS25CRMazb9BETqQVz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Lession1_2_step5_interpretator_python.executor": "Run",
+    "Python.Lession1_6_step11_unique_selectors.executor": "Run",
+    "Python.Lession1_6_step5_find_by_text_in_link.executor": "Run",
+    "Python.Lession1_6_step7_method_find_elements.executor": "Run",
+    "Python.Lession1_6_step8_find_by_xpath.executor": "Run",
+    "Python.Lession2_1_step5_checkboxes_and_radiobuttons.executor": "Run",
+    "Python.Lession2_1_step7_get_attribute.executor": "Run",
+    "Python.Lession2_2_step3_droplist.executor": "Run",
+    "Python.Lession2_2_step6_execute_script.executor": "Run",
+    "Python.Lession2_2_step8_upload_file.executor": "Run",
+    "Python.lession1_6_step4_find_element.executor": "Run",
+    "Python.lesson1.6_step10.executor": "Run",
+    "Python.p1.6.11.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "configurable.group.project"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-babbdf50b680-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.15989.155" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd1e97f5-d8fd-475d-9302-a3e07ea8e16c" name="Changes" comment="" />
+      <created>1723710417394</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723710417394</updated>
+    </task>
+    <servers />
+  </component>
+</project>
