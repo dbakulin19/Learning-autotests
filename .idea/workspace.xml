@@ -4,26 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd1e97f5-d8fd-475d-9302-a3e07ea8e16c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Автоматизация тестирования с помощью Selenium и Python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessions 1/Lession1_2_step5_interpretator_python.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessions 1/Lession1_6_step11_unique_selectors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessions 1/Lession1_6_step4_find_element.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessions 1/Lession1_6_step5_find_by_text_in_link.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessions 1/Lession1_6_step6_example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessions 1/Lession1_6_step7_method_find_elements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessions 1/Lession1_6_step8_find_by_xpath.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessions 2/Lession2_1_step5_checkboxes_and_radiobuttons.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessions 2/Lession2_1_step7_get_attribute.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessions 2/Lession2_2_step3_droplist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessions 2/Lession2_2_step6_execute_script.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessions 2/Lession2_2_step8_upload_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessions 2/file.txt" afterDir="false" />
+    <list default="true" id="dd1e97f5-d8fd-475d-9302-a3e07ea8e16c" name="Changes" comment="some lessions">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +48,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "settings.editor.selected.configurable": "configurable.group.project"
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -84,6 +67,19 @@
       <option name="presentableId" value="Default" />
       <updated>1723710417394</updated>
     </task>
+    <task id="LOCAL-00001" summary="some lessions">
+      <option name="closed" value="true" />
+      <created>1723732039136</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723732039136</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="some lessions" />
+    <option name="LAST_COMMIT_MESSAGE" value="some lessions" />
   </component>
 </project>
