@@ -4,8 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd1e97f5-d8fd-475d-9302-a3e07ea8e16c" name="Changes" comment="some lessions">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="dd1e97f5-d8fd-475d-9302-a3e07ea8e16c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Lessions 1/Lession1_2_step5_interpretator_python.py" beforeDir="false" afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/Lessions 1/Lession1_2_step5_interpretator_python.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessions 1/Lession1_6_step11_unique_selectors.py" beforeDir="false" afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/Lessions 1/Lession1_6_step11_unique_selectors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessions 1/Lession1_6_step4_find_element.py" beforeDir="false" afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/Lessions 1/Lession1_6_step4_find_element.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessions 1/Lession1_6_step5_find_by_text_in_link.py" beforeDir="false" afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/Lessions 1/Lession1_6_step5_find_by_text_in_link.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessions 1/Lession1_6_step6_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/Lessions 1/Lession1_6_step6_example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessions 1/Lession1_6_step7_method_find_elements.py" beforeDir="false" afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/Lessions 1/Lession1_6_step7_method_find_elements.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessions 1/Lession1_6_step8_find_by_xpath.py" beforeDir="false" afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/Lessions 1/Lession1_6_step8_find_by_xpath.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessions 2/Lession2_1_step5_checkboxes_and_radiobuttons.py" beforeDir="false" afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/Lessions 2/Lession2_1_step5_checkboxes_and_radiobuttons.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessions 2/Lession2_1_step7_get_attribute.py" beforeDir="false" afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/Lessions 2/Lession2_1_step7_get_attribute.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessions 2/Lession2_2_step3_droplist.py" beforeDir="false" afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/Lessions 2/Lession2_2_step3_droplist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessions 2/Lession2_2_step6_execute_script.py" beforeDir="false" afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/Lessions 2/Lession2_2_step6_execute_script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessions 2/Lession2_2_step8_upload_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/Lessions 2/Lession2_2_step8_upload_file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessions 2/file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/Lessions 2/file.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessions 3/1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/Lessions 3/1.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +26,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Dmitry Bakulin &lt;hellish19@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GithubDefaultAccount">
@@ -21,9 +40,9 @@
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2kgg1OnEgbS25CRMazb9BETqQVz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -50,9 +69,18 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "E:/учеба/Stepik autotests/Learning-autotests",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\учеба\Stepik autotests\Learning-autotests" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\учеба\Stepik autotests\Learning-autotests\Автоматизация тестирования с помощью Selenium и Python" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -93,7 +121,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723732750099</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="something wrong">
+      <option name="closed" value="true" />
+      <created>1723734927672</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1723734927672</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -109,6 +145,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="some lessions" />
-    <option name="LAST_COMMIT_MESSAGE" value="some lessions" />
+    <MESSAGE value="something wrong" />
+    <option name="LAST_COMMIT_MESSAGE" value="something wrong" />
   </component>
 </project>
