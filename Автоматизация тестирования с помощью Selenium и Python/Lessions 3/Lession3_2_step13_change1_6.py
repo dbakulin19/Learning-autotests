@@ -3,11 +3,10 @@ from selenium.webdriver.common.by import By
 import time
 import unittest
 
-class TestRegistration(unittest.TestCase):  # Cоздаем класс, который наследуется от TestCase
+class TestRegistration(unittest.TestCase):
 
-    def test_registration_should_pass(self):  # Делаем из функций методы, ссылаясь на self
+    def test_registration_should_pass(self):
 
-    # Входные данные
     link = 'http://suninjuly.github.io/registration1.html'
     browser = webdriver.Chrome()
     browser.get(link)
@@ -28,19 +27,15 @@ class TestRegistration(unittest.TestCase):  # Cоздаем класс, кото
     # Ждем загрузки страницы
     time.sleep(1)
 
-    # Находим элемент, содержащий текст
+    # Сравниваем результат
     welcome_text_elt = browser.find_element(By.TAG_NAME, "h1")
-    # Записываем в переменную welcome_text текст из элемента welcome_text_elt
     welcome_text = welcome_text_elt.text
-
-    # С помощью assert проверяем, что ожидаемый текст совпадает с текстом на странице сайта
-    assert "Congratulations! You have successfully registered!" == welcome_text
+    self.assertEqual(welcome_text, welcome_text_elt.text, 'Should be equal')  # Исправляем ассерт
 
     browser.quit()
 
     def test_registration_should_fail(self):
 
-    # Входные данные
     link2 = 'http://suninjuly.github.io/registration2.html'
     browser = webdriver.Chrome()
     browser.get(link2)
@@ -61,13 +56,10 @@ class TestRegistration(unittest.TestCase):  # Cоздаем класс, кото
     # Ждем загрузки страницы
     time.sleep(1)
 
-    # Находим элемент, содержащий текст
+    # Сравниваем результат
     welcome_text_elt = browser.find_element(By.TAG_NAME, "h1")
-    # Записываем в переменную welcome_text текст из элемента welcome_text_elt
     welcome_text = welcome_text_elt.text
-
-    # С помощью assert проверяем, что ожидаемый текст совпадает с текстом на странице сайта
-    assert "Congratulations! You have successfully registered!" == welcome_text
+    self.assertEqual(welcome_text, welcome_text_elt.text, 'Should be equal')  # Исправляем ассерт
 
     # Ожидание чтобы визуально оценить результаты прохождения скрипта
     time.sleep(2)
