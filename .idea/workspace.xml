@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd1e97f5-d8fd-475d-9302-a3e07ea8e16c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/Lessions 3/test_abs_project.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/Lessions 3/Lession3_2_step13_change1_6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/Lessions 3/test_abs_project.py" beforeDir="false" afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/Lessions 3/test_abs_project.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +33,9 @@
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="d0a59658-cce1-478b-acab-17a7e8009daa" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/Lessions 3/Lession3_2_step13_change1_6.py" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -49,6 +53,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python tests.Python tests in Learning-autotests.executor": "Run",
+    "Python tests.Python tests in Lession3_2_step13_change1_6.py.executor": "Run",
     "Python.Lession1_2_step5_interpretator_python.executor": "Run",
     "Python.Lession1_6_step11_unique_selectors.executor": "Run",
     "Python.Lession1_6_step5_find_by_text_in_link.executor": "Run",
@@ -84,7 +89,7 @@
       <recent name="E:\учеба\Stepik autotests\Learning-autotests\Автоматизация тестирования с помощью Selenium и Python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test_abs_project">
+  <component name="RunManager">
     <configuration name="test_abs_project" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Автоматизация тестирования с помощью Selenium и Python" />
       <option name="ENV_FILES" value="" />
@@ -107,6 +112,21 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for Lession3_2_step13_change1_6.TestRegistration.test_registration_should_fail" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Автоматизация тестирования с помощью Selenium и Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/Lessions 3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Lession3_2_step13_change1_6.TestRegistration.test_registration_should_fail&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="Python tests in Learning-autotests" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Автоматизация тестирования с помощью Selenium и Python" />
       <option name="ENV_FILES" value="" />
@@ -124,6 +144,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for Lession3_2_step13_change1_6.TestRegistration.test_registration_should_fail" />
         <item itemvalue="Python.test_abs_project" />
         <item itemvalue="Python tests.Python tests in Learning-autotests" />
       </list>
@@ -193,7 +214,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725546716921</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="example for lession3.2">
+      <option name="closed" value="true" />
+      <created>1726494457882</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1726494457882</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -212,6 +241,7 @@
     <MESSAGE value="something wrong" />
     <MESSAGE value="переместил в отдельную папку" />
     <MESSAGE value="added some lessions" />
-    <option name="LAST_COMMIT_MESSAGE" value="added some lessions" />
+    <MESSAGE value="example for lession3.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="example for lession3.2" />
   </component>
 </project>
