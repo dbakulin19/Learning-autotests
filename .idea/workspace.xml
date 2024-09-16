@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd1e97f5-d8fd-475d-9302-a3e07ea8e16c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/Lessions 2/Lession2_3_step4_alertwindow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/Lessions 2/Lession2_3_step6_switchwindow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/Lessions 2/Lession2_4_step3_example_getfindelements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/Lessions 2/Lession2_4_step7_example_expectedconditions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/Lessions 2/Lession2_4_step8_waiting100dollars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/Lessions 3/test_abs_project.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +48,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests in Learning-autotests.executor": "Run",
     "Python.Lession1_2_step5_interpretator_python.executor": "Run",
     "Python.Lession1_6_step11_unique_selectors.executor": "Run",
     "Python.Lession1_6_step5_find_by_text_in_link.executor": "Run",
@@ -70,6 +67,7 @@
     "Python.lession1_6_step4_find_element.executor": "Run",
     "Python.lesson1.6_step10.executor": "Run",
     "Python.p1.6.11.executor": "Run",
+    "Python.test_abs_project.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
@@ -82,8 +80,54 @@
       <recent name="E:\учеба\Stepik autotests\Learning-autotests" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\учеба\Stepik autotests\Learning-autotests\Автоматизация тестирования с помощью Selenium и Python\Lessions 3" />
       <recent name="E:\учеба\Stepik autotests\Learning-autotests\Автоматизация тестирования с помощью Selenium и Python" />
     </key>
+  </component>
+  <component name="RunManager" selected="Python.test_abs_project">
+    <configuration name="test_abs_project" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Автоматизация тестирования с помощью Selenium и Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/Lessions 3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/Lessions 3/test_abs_project.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in Learning-autotests" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Автоматизация тестирования с помощью Selenium и Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test_abs_project" />
+        <item itemvalue="Python tests.Python tests in Learning-autotests" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -141,7 +185,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723735204457</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="added some lessions">
+      <option name="closed" value="true" />
+      <created>1725546716921</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1725546716921</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -159,6 +211,7 @@
     <MESSAGE value="some lessions" />
     <MESSAGE value="something wrong" />
     <MESSAGE value="переместил в отдельную папку" />
-    <option name="LAST_COMMIT_MESSAGE" value="переместил в отдельную папку" />
+    <MESSAGE value="added some lessions" />
+    <option name="LAST_COMMIT_MESSAGE" value="added some lessions" />
   </component>
 </project>
