@@ -58,8 +58,6 @@ class TestRegistration(unittest.TestCase):
         welcome_text = welcome_text_elt.text
         self.assertEqual(welcome_text, welcome_text_elt.text, 'Should be equal')
 
-        # Ожидание чтобы визуально оценить результаты прохождения скрипта
-        time.sleep(2)
         # Закрываем браузер после всех манипуляций
         browser.quit()
 

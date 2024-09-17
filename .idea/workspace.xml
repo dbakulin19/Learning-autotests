@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd1e97f5-d8fd-475d-9302-a3e07ea8e16c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/tests/test_3_3_step3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/tests/test_3_3_step3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/tests/test_3_3_step3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -300,7 +299,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726573203677</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Добавил в 3_3 шаг 3">
+      <option name="closed" value="true" />
+      <created>1726573405198</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1726573405198</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -325,6 +332,7 @@
     <MESSAGE value="Исправил ошибку с indent'ом" />
     <MESSAGE value="?" />
     <MESSAGE value="Разобрался почему не запускался тест через терминал" />
-    <option name="LAST_COMMIT_MESSAGE" value="Разобрался почему не запускался тест через терминал" />
+    <MESSAGE value="Добавил в 3_3 шаг 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавил в 3_3 шаг 3" />
   </component>
 </project>
