@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd1e97f5-d8fd-475d-9302-a3e07ea8e16c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/conftest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/Lessions 3/Lession3_2_step13_change1_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/Lessions 3/Lession3_2_step13_change1_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/Lessions 3/1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/Lessions 3/test_abs_project.py" beforeDir="false" afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/tests/test_abs_project.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +58,7 @@
     "Python tests.Python tests in 12312.py.executor": "Run",
     "Python tests.Python tests in Learning-autotests.executor": "Run",
     "Python tests.Python tests in Lession3_2_step13_change1_6.py.executor": "Run",
+    "Python tests.Python tests in test_abs_project.py.executor": "Run",
     "Python.Lession1_2_step5_interpretator_python.executor": "Run",
     "Python.Lession1_6_step11_unique_selectors.executor": "Run",
     "Python.Lession1_6_step5_find_by_text_in_link.executor": "Run",
@@ -79,7 +82,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "E:/учеба/Stepik autotests/Learning-autotests",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "settings.editor.selected.configurable": "terminal"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -87,12 +90,13 @@
       <recent name="E:\учеба\Stepik autotests\Learning-autotests" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\учеба\Stepik autotests\Learning-autotests\Автоматизация тестирования с помощью Selenium и Python\tests" />
       <recent name="E:\учеба\Stepik autotests\Learning-autotests\Автоматизация тестирования с помощью Selenium и Python\Lessions 3" />
       <recent name="E:\учеба\Stepik autotests\Learning-autotests" />
       <recent name="E:\учеба\Stepik autotests\Learning-autotests\Автоматизация тестирования с помощью Selenium и Python" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.Python tests in test_abs_project.py">
     <configuration name="test_abs_project" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Автоматизация тестирования с помощью Selenium и Python" />
       <option name="ENV_FILES" value="" />
@@ -106,7 +110,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="E:\учеба\Stepik autotests\Learning-autotests\Автоматизация тестирования с помощью Selenium и Python\Lessions 3\test_abs_project.py" />
+      <option name="SCRIPT_NAME" value="E:\учеба\Stepik autotests\Learning-autotests\Автоматизация тестирования с помощью Selenium и Python\tests\test_abs_project.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,21 +149,6 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in Learning-autotests" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Автоматизация тестирования с помощью Selenium и Python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <configuration name="Python tests in Lession3_2_step13_change1_6.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Автоматизация тестирования с помощью Selenium и Python" />
       <option name="ENV_FILES" value="" />
@@ -175,13 +164,28 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests in test_abs_project.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Автоматизация тестирования с помощью Selenium и Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/Lessions 3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/tests/test_abs_project.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests in test_abs_project.py" />
         <item itemvalue="Python tests.Python tests for Lession3_2_step13_change1_6.TestRegistration.test_registration_should_pass" />
         <item itemvalue="Python tests.Python tests in Lession3_2_step13_change1_6.py" />
         <item itemvalue="Python tests.Python tests for Lession3_2_step13_change1_6.TestRegistration.test_registration_should_fail" />
         <item itemvalue="Python.test_abs_project" />
-        <item itemvalue="Python tests.Python tests in Learning-autotests" />
       </list>
     </recent_temporary>
   </component>
@@ -273,8 +277,19 @@
       <option name="project" value="LOCAL" />
       <updated>1726496613037</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Исправил ошибку с indent'ом">
+      <option name="closed" value="true" />
+      <created>1726571289075</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1726571289075</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
+  </component>
+  <component name="TerminalProjectNonSharedOptionsProvider">
+    <option name="startingDirectory" value="E:\учеба\Stepik autotests\Автоматизация тестирования с помощью Selenium и Python" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -295,6 +310,7 @@
     <MESSAGE value="example for lession3.2" />
     <MESSAGE value="Add lession 3_2_13 file" />
     <MESSAGE value="Change lession 3_2_13 file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Change lession 3_2_13 file" />
+    <MESSAGE value="Исправил ошибку с indent'ом" />
+    <option name="LAST_COMMIT_MESSAGE" value="Исправил ошибку с indent'ом" />
   </component>
 </project>
