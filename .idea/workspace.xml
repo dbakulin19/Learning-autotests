@@ -5,9 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd1e97f5-d8fd-475d-9302-a3e07ea8e16c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/Lessions 3/test_3_3_9_pytest_raises_example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/test_abs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/pytest.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/tests/test_fixture1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/tests/test_fixture10_xfailexample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/tests/test_fixture10a_xfailpass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/tests/test_fixture10b_xfailpass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/tests/test_fixture2_parameter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/tests/test_fixture3_yield.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/tests/test_fixture5_scope.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/tests/test_fixture81_win10mark.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/tests/test_fixture8_marks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/tests/test_fixture_autouse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/tests/test_fixture_markskip.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,42 +60,43 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Python tests.Python tests for Lession3_2_step13_change1_6.TestRegistration.test_registration_should_fail.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for Lession3_2_step13_change1_6.TestRegistration.test_registration_should_pass.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in 12312.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in Learning-autotests.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in Lession3_2_step13_change1_6.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_3_3_step3.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_abs_project.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lession1_2_step5_interpretator_python.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lession1_6_step11_unique_selectors.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lession1_6_step5_find_by_text_in_link.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lession1_6_step7_method_find_elements.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lession1_6_step8_find_by_xpath.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lession2_1_step5_checkboxes_and_radiobuttons.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lession2_1_step7_get_attribute.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lession2_2_step3_droplist.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lession2_2_step6_execute_script.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lession2_2_step8_upload_file.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.Lession2_3_step4_alertwindow.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lession2_3_step6_switchwindow.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lession2_4_step3_example_getfindelements.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lession2_4_step7_example_expectedconditions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lession2_4_step8_waiting100dollars.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lession1_6_step4_find_element.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson1.6_step10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.p1.6.11.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test_abs_project.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/учеба/Stepik autotests/Learning-autotests&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python tests.Python tests for Lession3_2_step13_change1_6.TestRegistration.test_registration_should_fail.executor": "Run",
+    "Python tests.Python tests for Lession3_2_step13_change1_6.TestRegistration.test_registration_should_pass.executor": "Run",
+    "Python tests.Python tests in 12312.py.executor": "Run",
+    "Python tests.Python tests in Learning-autotests.executor": "Run",
+    "Python tests.Python tests in Lession3_2_step13_change1_6.py.executor": "Run",
+    "Python tests.Python tests in test_3_3_step3.py.executor": "Run",
+    "Python tests.Python tests in test_abs_project.py.executor": "Run",
+    "Python tests.Python tests in test_fixture_markskip.py.executor": "Run",
+    "Python.Lession1_2_step5_interpretator_python.executor": "Run",
+    "Python.Lession1_6_step11_unique_selectors.executor": "Run",
+    "Python.Lession1_6_step5_find_by_text_in_link.executor": "Run",
+    "Python.Lession1_6_step7_method_find_elements.executor": "Run",
+    "Python.Lession1_6_step8_find_by_xpath.executor": "Run",
+    "Python.Lession2_1_step5_checkboxes_and_radiobuttons.executor": "Run",
+    "Python.Lession2_1_step7_get_attribute.executor": "Run",
+    "Python.Lession2_2_step3_droplist.executor": "Run",
+    "Python.Lession2_2_step6_execute_script.executor": "Run",
+    "Python.Lession2_2_step8_upload_file.executor": "Debug",
+    "Python.Lession2_3_step4_alertwindow.executor": "Run",
+    "Python.Lession2_3_step6_switchwindow.executor": "Run",
+    "Python.Lession2_4_step3_example_getfindelements.executor": "Run",
+    "Python.Lession2_4_step7_example_expectedconditions.executor": "Run",
+    "Python.Lession2_4_step8_waiting100dollars.executor": "Run",
+    "Python.lession1_6_step4_find_element.executor": "Run",
+    "Python.lesson1.6_step10.executor": "Run",
+    "Python.p1.6.11.executor": "Run",
+    "Python.test_abs_project.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "E:/учеба/Stepik autotests/Learning-autotests",
+    "settings.editor.selected.configurable": "terminal"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\учеба\Stepik autotests\Learning-autotests" />
@@ -98,7 +108,7 @@
       <recent name="E:\учеба\Stepik autotests\Learning-autotests\Автоматизация тестирования с помощью Selenium и Python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test_abs_project">
+  <component name="RunManager">
     <configuration name="test_abs_project" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Автоматизация тестирования с помощью Selenium и Python" />
       <option name="ENV_FILES" value="" />
@@ -327,11 +337,22 @@
       <option name="project" value="LOCAL" />
       <updated>1726574139415</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="add init to tests and example for 339">
+      <option name="closed" value="true" />
+      <created>1726686726279</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1726686726279</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TerminalProjectNonSharedOptionsProvider">
     <option name="startingDirectory" value="E:\учеба\Stepik autotests\Learning-autotests\Автоматизация тестирования с помощью Selenium и Python" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.ini" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -358,6 +379,7 @@
     <MESSAGE value="Разобрался почему не запускался тест через терминал" />
     <MESSAGE value="Добавил в 3_3 шаг 3" />
     <MESSAGE value="Добавил requirements" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавил requirements" />
+    <MESSAGE value="add init to tests and example for 339" />
+    <option name="LAST_COMMIT_MESSAGE" value="add init to tests and example for 339" />
   </component>
 </project>
