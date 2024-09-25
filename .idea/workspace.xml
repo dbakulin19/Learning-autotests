@@ -5,18 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd1e97f5-d8fd-475d-9302-a3e07ea8e16c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/pytest.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/tests/test_fixture1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/tests/test_fixture10_xfailexample.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/tests/test_fixture10a_xfailpass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/tests/test_fixture10b_xfailpass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/tests/test_fixture2_parameter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/tests/test_fixture3_yield.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/tests/test_fixture5_scope.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/tests/test_fixture81_win10mark.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/tests/test_fixture8_marks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/tests/test_fixture_autouse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/tests/test_fixture_markskip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/tests/test_fixture7_parametrize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/tests/test_task_run_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/tests/test_xfail.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +61,10 @@
     "Python tests.Python tests in Lession3_2_step13_change1_6.py.executor": "Run",
     "Python tests.Python tests in test_3_3_step3.py.executor": "Run",
     "Python tests.Python tests in test_abs_project.py.executor": "Run",
+    "Python tests.Python tests in test_fixture10a_xfailpass.py.executor": "Run",
+    "Python tests.Python tests in test_fixture10b_xfailpass.py.executor": "Run",
     "Python tests.Python tests in test_fixture_markskip.py.executor": "Run",
+    "Python tests.Python tests in test_xfail.py.executor": "Run",
     "Python.Lession1_2_step5_interpretator_python.executor": "Run",
     "Python.Lession1_6_step11_unique_selectors.executor": "Run",
     "Python.Lession1_6_step5_find_by_text_in_link.executor": "Run",
@@ -345,7 +339,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726686726279</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="add many test fixtures">
+      <option name="closed" value="true" />
+      <created>1727176707813</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1727176707813</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TerminalProjectNonSharedOptionsProvider">
@@ -380,6 +382,7 @@
     <MESSAGE value="Добавил в 3_3 шаг 3" />
     <MESSAGE value="Добавил requirements" />
     <MESSAGE value="add init to tests and example for 339" />
-    <option name="LAST_COMMIT_MESSAGE" value="add init to tests and example for 339" />
+    <MESSAGE value="add many test fixtures" />
+    <option name="LAST_COMMIT_MESSAGE" value="add many test fixtures" />
   </component>
 </project>
