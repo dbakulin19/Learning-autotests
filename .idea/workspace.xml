@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd1e97f5-d8fd-475d-9302-a3e07ea8e16c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/tests/test_fixture7_parametrize.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/tests/test_task_run_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/tests/test_xfail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/Lessions 3/Lession3_6_4_autorization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/Lessions 3/Lession3_6_5_UFOparametrize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/Lessions 3/suda.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/Lessions 3/test_conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/Lessions 3/testtesttest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/conftest.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,15 +59,20 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python tests.Python tests for Lession3_2_step13_change1_6.TestRegistration.test_registration_should_fail.executor": "Run",
     "Python tests.Python tests for Lession3_2_step13_change1_6.TestRegistration.test_registration_should_pass.executor": "Run",
+    "Python tests.Python tests for Lession3_6_4_autorization.TestStepik.test_autorization_successful.executor": "Run",
     "Python tests.Python tests in 12312.py.executor": "Run",
     "Python tests.Python tests in Learning-autotests.executor": "Run",
     "Python tests.Python tests in Lession3_2_step13_change1_6.py.executor": "Run",
+    "Python tests.Python tests in Lession3_6_4_autorization.py.executor": "Run",
+    "Python tests.Python tests in Lession3_6_5_UFOparametrize.py.executor": "Run",
     "Python tests.Python tests in test_3_3_step3.py.executor": "Run",
     "Python tests.Python tests in test_abs_project.py.executor": "Run",
+    "Python tests.Python tests in test_conftest.py.executor": "Run",
     "Python tests.Python tests in test_fixture10a_xfailpass.py.executor": "Run",
     "Python tests.Python tests in test_fixture10b_xfailpass.py.executor": "Run",
     "Python tests.Python tests in test_fixture_markskip.py.executor": "Run",
     "Python tests.Python tests in test_xfail.py.executor": "Run",
+    "Python tests.Python tests in testtesttest.py.executor": "Run",
     "Python.Lession1_2_step5_interpretator_python.executor": "Run",
     "Python.Lession1_6_step11_unique_selectors.executor": "Run",
     "Python.Lession1_6_step5_find_by_text_in_link.executor": "Run",
@@ -103,28 +111,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="test_abs_project" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Автоматизация тестирования с помощью Selenium и Python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/Lessions 3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="E:\учеба\Stepik autotests\Learning-autotests\Автоматизация тестирования с помощью Selenium и Python\tests\test_abs_project.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="Python tests for Lession3_2_step13_change1_6.TestRegistration.test_registration_should_fail" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Автоматизация тестирования с помощью Selenium и Python" />
       <option name="ENV_FILES" value="" />
@@ -152,6 +138,21 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;Lession3_2_step13_change1_6.TestRegistration.test_registration_should_pass&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for Lession3_6_4_autorization.TestStepik.test_autorization_successful" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Автоматизация тестирования с помощью Selenium и Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Автоматизация тестирования с помощью Selenium и Python/Lessions 3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Lession3_6_4_autorization.TestStepik.test_autorization_successful&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -187,11 +188,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for Lession3_6_4_autorization.TestStepik.test_autorization_successful" />
         <item itemvalue="Python tests.Python tests in test_abs_project.py" />
         <item itemvalue="Python tests.Python tests for Lession3_2_step13_change1_6.TestRegistration.test_registration_should_pass" />
         <item itemvalue="Python tests.Python tests in Lession3_2_step13_change1_6.py" />
         <item itemvalue="Python tests.Python tests for Lession3_2_step13_change1_6.TestRegistration.test_registration_should_fail" />
-        <item itemvalue="Python.test_abs_project" />
       </list>
     </recent_temporary>
   </component>
@@ -347,7 +348,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727176707813</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="add few test fixtures">
+      <option name="closed" value="true" />
+      <created>1727265789805</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1727265789805</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TerminalProjectNonSharedOptionsProvider">
@@ -383,6 +392,7 @@
     <MESSAGE value="Добавил requirements" />
     <MESSAGE value="add init to tests and example for 339" />
     <MESSAGE value="add many test fixtures" />
-    <option name="LAST_COMMIT_MESSAGE" value="add many test fixtures" />
+    <MESSAGE value="add few test fixtures" />
+    <option name="LAST_COMMIT_MESSAGE" value="add few test fixtures" />
   </component>
 </project>
